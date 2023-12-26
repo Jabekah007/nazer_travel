@@ -469,7 +469,7 @@ header {
 
 /* =================== Tour Type Style Starts Here =================== */
 .our-capablit {
-  background-image: url(../images/slider/slid_2.jpg);
+  background-image: url(../images/castle.jpg);
   background-attachment: fixed;
   background-size: 100%; }
   .our-capablit .layy {
@@ -750,6 +750,7 @@ address {
     .our-team .team-member ul {
       margin: 0px;
       margin-top: 10px; }
+                
 
 /* ===================================== Gallery Style  ================================== */
 .gallery-filter {
