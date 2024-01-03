@@ -280,7 +280,7 @@ header {
           margin-left: 15px; }
   header .header-bottom {
     padding: 6px;
-    background-color: #334960; }
+    background-color: #FFFFFF; }
     @media screen and (max-width: 991px) {
       header .header-bottom {
         padding: 0px; } }
@@ -311,12 +311,12 @@ header {
           header .nav-col .navbad li a {
             padding-left: 0px; } }
       header .nav-col .navbad li a {
-        color: #fff !important; }
+        color: #1c2d3ef7 !important; }
     header .nav-col .navbad .nav-btn {
       float: right; }
   header .small-menu {
     float: right;
-    color: #FFF;
+    color: #1c2d3ef7;
     font-size: 1.8rem;
     position: absolute;
     right: 13px;
@@ -375,7 +375,7 @@ header {
         width: 60px;
         height: 60px;
         text-align: center;
-        background-color: #47a0ff;
+        background-color: rgb(6, 119, 6);
         color: #FFF;
         border-radius: 50px;
         font-size: 1.5rem;
